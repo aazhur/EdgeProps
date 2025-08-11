@@ -1,5 +1,5 @@
 % Beta Version. August 28, 2015
-% by Denis Tsygankov (GT/Emory BME) and Timothy Qi (UNC)
+% by Denis Tsygankov (GT/Emory BME) and Anastasia Zhurikhina (GT)
 % denis.tsygankov@bme.gatech.edu
 
 function varargout = EdgeProps2(varargin)
